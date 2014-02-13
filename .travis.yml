@@ -4,8 +4,8 @@ python:
   - "2.7"
 env:
   global:
-    - secure: "jE3ykM4EcAs8U4SB+ziJkVBzAlJFKnYCWQOYRW7Xw6fdPoibpf62tPd32XNC\njoRLchSVhmU3bl0dpMcmpFg4M099+N5wnPcqow1TDABA2SiJKyn2TXaXBmJz\n9zvrwQtfzo9gjqOjoWnIPZh3Ai9vEmJ+9LbKkGgieihnUrQzyRY="
-    - secure: "V0e7tHG3XZnApgMmW/WGFYcHYFHCA5aD3kQxY41oxvFixpCx3aN+/8Kyw1Wf\nclZ+C9Myxn1rkaTrI39ZJBPB+UFrANJI1tg5uhLNnykHpUWielwWkNoh1OQx\nAwCCjZdzYdueMf+GCPi/kh5dGHANCp+eLlgf33X0IQGdcNpj4BQ="
+    - secure: "NY9tMAk0TCgAn7PhjAu+JUcc2kMG3Html/HREMd2Y6CAGXz4BfpyqTJ70xh5uUJhwrOXYf3YZSmuXmkKkpDp8ap2xdD+kkywD6XA7EtdCTLxmAUoZHNasvEcrSYZFB5h+LS4XDB4Klw1pWHAb1NZWXH9/fpEedUBmOhElvqnNSs="
+    - secure: "fSI6kbNwo3p/It8Ed9p7iyoFSIwwAKDnhUi/w9tHlPQ90OhhExGqtqqWFl53DtIR5WIFybO+rSA4tKufQXZIzg6rnQez8XPjn472cDq56w56y1hI+G8RG10AlHogzLMtBro3AxrX+AlWwzDaM7ECg9NluJ0b0AOuUNfEboOYoOQ="
 
 install:
   - pip install selenium nose --use-mirrors
